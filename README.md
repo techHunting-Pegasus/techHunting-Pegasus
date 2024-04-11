@@ -7,10 +7,10 @@ I'm an iOS and Flutter developer passionate about creating futuristic and visual
 
 ## Skills
 
-- **iOS Development:** Swift, UIKit, Core Data, SwiftUI
-- **Flutter Development:** Dart, Flutter SDK, Provider, Firebase
-- **UI/UX Design:** Adobe XD, Sketch, Figma
-- **Version Control:** Git, GitHub
+- **iOS Development:** ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+- **Flutter Development:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+- **UI/UX Design:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white), ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white)
+- **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ## Projects
 
@@ -26,11 +26,13 @@ Feel free to explore more of my work on [GitHub](link-to-your-github)!
 
 Let's connect! You can find me on:
 
-- [LinkedIn](link-to-linkedin)
-- [Twitter](link-to-twitter)
-- [Instagram](link-to-instagram)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](link-to-linkedin)
+- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](link-to-twitter)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](link-to-instagram)
+
 
 Feel free to reach out for collaboration opportunities, project ideas, or just to say hi! 😊
+
 
 <!--
 **ishpreet77-creator/ishpreet77-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
