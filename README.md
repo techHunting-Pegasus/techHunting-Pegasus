@@ -8,7 +8,7 @@ I'm an iOS and Flutter developer passionate about creating futuristic and visual
 ## Skills
 
 - **iOS Development:** [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
-- **Flutter Development:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+- **Flutter Development:** [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)]
 - **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 
