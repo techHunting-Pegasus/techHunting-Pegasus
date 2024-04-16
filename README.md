@@ -20,7 +20,7 @@ Let's connect! You can find me on:
 - [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Ishpree32501405?t=P2O1XNXHKjqYOjyNH_lQ7g&s=09)
 - [![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)](https://techhuntingworkspace.slack.com/admin)
 - [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/channels/@me)
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](ishpreetsingh8386@gmail.com)
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ishpreetsingh8386@gmail.com)
   
 
 ishpreet8386
