@@ -23,7 +23,7 @@ Let's connect! You can find me on:
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ishpreetsingh8386@gmail.com)
   
 
-ishpreet8386
+
 Feel free to reach out for collaboration opportunities, project ideas, or just to say hi! 😊
 
 
