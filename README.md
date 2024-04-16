@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Ishpreet Singh! 👋
 
 I'm an iOS and Flutter developer passionate about creating futuristic and visually appealing apps. With 2 years of experience in iOS development and 1 year of experience in Flutter, I thrive on crafting elegant solutions to complex problems.
 
