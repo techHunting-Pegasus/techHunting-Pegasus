@@ -9,18 +9,8 @@ I'm an iOS and Flutter developer passionate about creating futuristic and visual
 
 - **iOS Development:** ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
 - **Flutter Development:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-- **UI/UX Design:** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white), ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white)
 - **Version Control:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-## Projects
-
-Here are some of my notable projects:
-
-- [Project 1](link-to-project-1): Short description
-- [Project 2](link-to-project-2): Short description
-- [Project 3](link-to-project-3): Short description
-
-Feel free to explore more of my work on [GitHub](link-to-your-github)!
 
 ## Get in Touch
 
