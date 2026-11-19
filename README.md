@@ -1,44 +1,49 @@
-### Hi there 👋
+# Hi, I'm Ishpreet Singh 👋
 
+**iOS & Flutter developer** based in India. I build streaming apps, tvOS interfaces, subscription and payment flows, and reusable Swift SDKs for product teams and startups.
 
-# Hello, I'm Ishpreet Singh! 👋
+📩 **Open for freelance and contract work** · [Email me](mailto:ishpreetsingh8386@gmail.com) · [LinkedIn](https://in.linkedin.com/in/ishpreet-singh-598726219) · [Portfolio](https://tech-hunting-ishpreetsingh.vercel.app)
 
-I'm an iOS and Flutter developer passionate about creating futuristic and visually appealing apps. With 4 plus years of experience in mobile app development with using React native and flutter. I thrive on crafting elegant solutions to complex problems.
+---
 
-## Skills
+## What I can build for you
 
-- **iOS Development:** [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/thebasics/)
-- **Flutter Development:** [![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)](https://www.geeksforgeeks.org/flutter-tutorial/)
-- **Version Control:** [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](), [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)]()
+| Service | What you get |
+|---|---|
+| **iOS apps** | Native apps in Swift, SwiftUI and UIKit, from MVP to App Store release |
+| **Flutter apps** | One codebase for iOS and Android, with Firebase and API integration |
+| **Video streaming** | HLS players, FairPlay DRM playback, live streams, quality/audio/subtitle controls |
+| **tvOS** | Apple TV interfaces, including custom input such as an Arabic on-screen keyboard |
+| **Payments & subscriptions** | Apple In-App Purchase, Razorpay, subscription flows |
+| **SDKs & tooling** | Swift SDKs and developer tools, packaged for other teams to integrate |
 
+## Featured work
 
-## Get in Touch
+| Project | What it does |
+|---|---|
+| [**HlsPlayer**](https://github.com/techHunting-Pegasus/HlsPlayer) | Custom AVPlayer-based video framework with UIKit and SwiftUI support, live streams and settings controls |
+| [**CustomVideoPlayerSdk**](https://github.com/techHunting-Pegasus/CustomVideoPlayerSdk) | Swift SDK for DRM (FairPlay) and non-DRM playback, distributed via Swift Package Manager |
+| [**ApiobservailtyKitiOS**](https://github.com/techHunting-Pegasus/ApiobservailtyKitiOS) | iOS SDK that captures API requests from an app, with redaction of sensitive headers and body fields |
+| [**api_observability_frontend**](https://github.com/techHunting-Pegasus/api_observability_frontend) | Next.js and TypeScript dashboard for viewing those API logs |
 
-Let's connect! You can find me on:
+## Tech I work with
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/ishpreet-singh-598726219)
-- [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/Ishpree32501405?t=P2O1XNXHKjqYOjyNH_lQ7g&s=09)
-- [![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white)](https://techhuntingworkspace.slack.com/admin)
-- [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white)](https://discord.com/channels/@me)
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:ishpreetsingh8386@gmail.com)
-  
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-2396F3?logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
+## How I work
 
-Feel free to reach out for collaboration opportunities, project ideas, or just to say hi! 😊
+1. **You tell me the problem.** A short call or message is enough.
+2. **I send a clear scope and timeline** before I start.
+3. **You see working builds regularly**, not only at the end.
+4. **Clean handover**: readable code, README and setup notes.
 
+## Let's talk
 
-<!--
-**ishpreet77-creator/ishpreet77-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+Have an app idea, a video-streaming problem, or an existing iOS/Flutter app that needs work?
+Email **ishpreetsingh8386@gmail.com** with a few lines about your project.
